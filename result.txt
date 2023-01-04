@@ -1,0 +1,6 @@
+https://mail.monre.gov.vn/owa/auth/logon.aspx ttphuong:binhphuong
+https://mail.laocai.gov.vn/owa/auth/logon.aspx;haipv-stnmt;123456*
+https://mail.kiengiang.gov.vn/owa/auth/logon.aspx ntnhanh.gq:100509Nhanh
+https://mail.thainguyen.gov.vn/owa/auth/logon.aspx:cntt.vks:vks123456
+https://mail.danang.gov.vn/owa/auth/logon.aspx congchungquocvinh:Nguhanhson17
+https://mail.mpi.gov.vn/owa/auth/logon.aspx hoangphu:Fami2710
