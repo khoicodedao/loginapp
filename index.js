@@ -2,7 +2,7 @@ const puppeteer = require('puppeteer')
 const fs = require('fs')
 
 var array = fs
-  .readFileSync('C:/Users/Khoi/Desktop/ToolAdmin/mail.txt')
+  .readFileSync('C:/Users/dangk/OneDrive/Desktop/ToolAdmin/loginapp/mail.txt')
   .toString()
   .split('\n')
 
