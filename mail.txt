@@ -1,3 +1,4 @@
+http://chicuctdc.baria-vungtau.gov.vn/admin admin:Tcdlcl379**
 http://soldtbxh.sonla.gov.vn/admin/login.aspx sldtbxh:sldtbxh@123456
 http://pgd.csdl.moet.gov.vn/Login.aspx admin:quang123
 https://truclienthong.vinhlong.gov.vn/ihorae/login.iws admin@vinhlong.gov.vn:Admin@VL$2018
@@ -399,7 +400,6 @@ https://csdl.dichvucong.gov.vn/web/login.jsp hgg.admin:u;Y#3HMa:
 https://bni.thuathienhue.gov.vn/Login.aspx admin:Bkav@2016
 http://motcua.dongxoai.gov.vn:8888 admin:Admin
 https://adminfia.mpi.gov.vn 0311039793:987654321
-http://chicuctdc.baria-vungtau.gov.vn/admin admin:Tcdlcl379**
 http://sonla.gov.vn/admin/login.aspx root:Vnpt!@##@!
 http://tst.baohiemxahoi.gov.vn admintayhoa:CNTT841930!@#
 https://dichvucong.travinh.gov.vn/hethong/login admin.stnmt:Hcc@12345
